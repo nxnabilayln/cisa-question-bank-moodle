@@ -1,0 +1,899 @@
+::CISA_D5_Q1 [Easy]::
+Tujuan utama keamanan informasi adalah:
+{
+=Melindungi aset informasi # Menjaga CIA triad
+~Menghapus data
+~Mengurangi user
+~Menambah sistem
+}
+
+::CISA_D5_Q2 [Easy]::
+CIA triad terdiri dari:
+{
+=Confidentiality, Integrity, Availability # Prinsip dasar keamanan
+~Control, IT, Audit
+~Create, Implement, Analyze
+~Code, Input, Access
+}
+
+::CISA_D5_Q3 [Medium]::
+Confidentiality berarti:
+{
+=Kerahasiaan data # Akses terbatas
+~Ketersediaan
+~Kecepatan
+~Integritas
+}
+
+::CISA_D5_Q4 [Medium]::
+Integrity berarti:
+{
+=Keakuratan dan keutuhan data # Tidak berubah tanpa izin
+~Kerahasiaan
+~Kecepatan
+~Ketersediaan
+}
+
+::CISA_D5_Q5 [Medium]::
+Availability berarti:
+{
+=Data tersedia saat dibutuhkan # Uptime
+~Keamanan
+~Integritas
+~Kecepatan
+}
+
+::CISA_D5_Q6 [Easy]::
+Authentication adalah:
+{
+=Verifikasi identitas # Who you are
+~Pemberian akses
+~Enkripsi
+~Logging
+}
+
+::CISA_D5_Q7 [Medium]::
+Authorization adalah:
+{
+=Pemberian hak akses # What you can do
+~Verifikasi identitas
+~Enkripsi
+~Logging
+}
+
+::CISA_D5_Q8 [Medium]::
+Accounting (auditing) berarti:
+{
+=Pencatatan aktivitas # Tracking
+~Verifikasi
+~Akses
+~Enkripsi
+}
+
+::CISA_D5_Q9 [Hard]::
+Multi-factor authentication menggunakan:
+{
+=Lebih dari satu faktor # Something you know/have/are
+~Password saja
+~Token saja
+~Biometrik saja
+}
+
+::CISA_D5_Q10 [Easy]::
+Password adalah contoh:
+{
+=Something you know # Faktor autentikasi
+~Something you have
+~Something you are
+~Location
+}
+
+::CISA_D5_Q11 [Medium]::
+Token adalah:
+{
+=Something you have # Faktor autentikasi
+~Something you know
+~Something you are
+~Location
+}
+
+::CISA_D5_Q12 [Medium]::
+Biometric adalah:
+{
+=Something you are # Sidik jari, wajah
+~Something you know
+~Something you have
+~Location
+}
+
+::CISA_D5_Q13 [Hard]::
+Least privilege berarti:
+{
+=Akses minimum yang diperlukan # Minim risiko
+~Akses penuh
+~Tanpa akses
+~Akses random
+}
+
+::CISA_D5_Q14 [Easy]::
+Access control bertujuan:
+{
+=Membatasi akses # Security control
+~Menghapus data
+~Menambah data
+~Mengurangi sistem
+}
+
+::CISA_D5_Q15 [Medium]::
+RBAC adalah:
+{
+=Role-based access control # Berdasarkan peran
+~User-based
+~Time-based
+~Location-based
+}
+
+::CISA_D5_Q16 [Medium]::
+DAC adalah:
+{
+=Discretionary access control # Berdasarkan pemilik
+~Mandatory
+~Role-based
+~Time-based
+}
+
+::CISA_D5_Q17 [Hard]::
+MAC adalah:
+{
+=Mandatory access control # Berdasarkan klasifikasi
+~User-based
+~Role-based
+~Time-based
+}
+
+::CISA_D5_Q18 [Easy]::
+Encryption digunakan untuk:
+{
+=Melindungi data # Confidentiality
+~Menghapus data
+~Menambah data
+~Mengurangi data
+}
+
+::CISA_D5_Q19 [Medium]::
+Symmetric encryption menggunakan:
+{
+=Satu kunci # Shared key
+~Dua kunci
+~Tanpa kunci
+~Token
+}
+
+::CISA_D5_Q20 [Medium]::
+Asymmetric encryption menggunakan:
+{
+=Dua kunci # Public & private
+~Satu kunci
+~Tanpa kunci
+~Token
+}
+
+::CISA_D5_Q21 [Hard]::
+Public key digunakan untuk:
+{
+=Enkripsi # Dibuka dengan private key
+~Dekripsi
+~Hash
+~Sign
+}
+
+::CISA_D5_Q22 [Easy]::
+Private key digunakan untuk:
+{
+=Dekripsi # Rahasia
+~Enkripsi
+~Hash
+~Token
+}
+
+::CISA_D5_Q23 [Medium]::
+Hashing bertujuan:
+{
+=Menjaga integritas # One-way
+~Enkripsi
+~Dekripsi
+~Akses
+}
+
+::CISA_D5_Q24 [Medium]::
+Digital signature digunakan untuk:
+{
+=Autentikasi & integritas # Non-repudiation
+~Enkripsi
+~Dekripsi
+~Akses
+}
+
+::CISA_D5_Q25 [Hard]::
+Non-repudiation berarti:
+{
+=Tidak dapat menyangkal # Proof of origin
+~Akses
+~Integritas
+~Availability
+}
+
+::CISA_D5_Q26 [Easy]::
+Firewall berfungsi:
+{
+=Memfilter trafik # Network security
+~Menghapus data
+~Menambah data
+~Mengurangi sistem
+}
+
+::CISA_D5_Q27 [Medium]::
+IDS adalah:
+{
+=Intrusion detection system # Deteksi serangan
+~Prevention
+~Encryption
+~Access
+}
+
+::CISA_D5_Q28 [Medium]::
+IPS adalah:
+{
+=Intrusion prevention system # Blok serangan
+~Detection
+~Logging
+~Monitoring
+}
+
+::CISA_D5_Q29 [Hard]::
+VPN digunakan untuk:
+{
+=Koneksi aman # Encrypted tunnel
+~Open access
+~Public data
+~Free network
+}
+
+::CISA_D5_Q30 [Easy]::
+Antivirus:
+{
+=Deteksi malware # Protection
+~Delete data
+~Add data
+~Reduce system
+}
+
+::CISA_D5_Q31 [Medium]::
+Malware adalah:
+{
+=Software berbahaya # Virus, worm
+~Safe software
+~Update
+~Patch
+}
+
+::CISA_D5_Q32 [Medium]::
+Phishing adalah:
+{
+=Serangan sosial # Fake email
+~Malware
+~Virus
+~Firewall
+}
+
+::CISA_D5_Q33 [Hard]::
+Social engineering adalah:
+{
+=Manipulasi manusia # Exploit trust
+~Technical attack
+~Firewall attack
+~System error
+}
+
+::CISA_D5_Q34 [Easy]::
+Patch management:
+{
+=Update keamanan # Fix vulnerability
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q35 [Medium]::
+Vulnerability adalah:
+{
+=Kelemahan sistem # Weakness
+~Threat
+~Control
+~Risk
+}
+
+::CISA_D5_Q36 [Medium]::
+Threat adalah:
+{
+=Ancaman # Source of harm
+~Control
+~Data
+~User
+}
+
+::CISA_D5_Q37 [Hard]::
+Risk adalah:
+{
+=Threat x Vulnerability # Exposure
+~Threat saja
+~Control saja
+~User saja
+}
+
+::CISA_D5_Q38 [Easy]::
+Security policy:
+{
+=Aturan keamanan # Governance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q39 [Medium]::
+Security awareness:
+{
+=Edukasi user # Human factor
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q40 [Medium]::
+Security incident:
+{
+=Kejadian keamanan # Breach
+~Normal
+~Safe
+~Secure
+}
+
+::CISA_D5_Q41 [Hard]::
+Incident response:
+{
+=Penanganan insiden # Contain & recover
+~Ignore
+~Delete
+~Add
+}
+
+::CISA_D5_Q42 [Easy]::
+Logging:
+{
+=Pencatatan aktivitas # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q43 [Medium]::
+Monitoring:
+{
+=Pengawasan sistem # Detection
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q44 [Medium]::
+SIEM adalah:
+{
+=Security monitoring system # Central log
+~Firewall
+~Antivirus
+~VPN
+}
+
+::CISA_D5_Q45 [Hard]::
+Zero trust:
+{
+=Tidak percaya default # Verify always
+~Trust all
+~Open access
+~Free access
+}
+
+::CISA_D5_Q46 [Easy]::
+Data classification:
+{
+=Pengelompokan data # Sensitivity
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q47 [Medium]::
+Sensitive data:
+{
+=Data penting # High risk
+~Public
+~General
+~Free
+}
+
+::CISA_D5_Q48 [Medium]::
+Data masking:
+{
+=Menyembunyikan data # Privacy
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q49 [Hard]::
+Data loss prevention:
+{
+=Mencegah kebocoran data # DLP
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q50 [Easy]::
+Backup security:
+{
+=Melindungi backup # Data safety
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q51 [Medium]::
+Encryption at rest:
+{
+=Data tersimpan # Storage security
+~Transit
+~Process
+~None
+}
+
+::CISA_D5_Q52 [Medium]::
+Encryption in transit:
+{
+=Data bergerak # Network security
+~Storage
+~Process
+~None
+}
+
+::CISA_D5_Q53 [Hard]::
+Key management:
+{
+=Pengelolaan kunci # Security critical
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q54 [Easy]::
+Access log:
+{
+=Catatan akses # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q55 [Medium]::
+Privileged access:
+{
+=Akses tinggi # Admin level
+~User
+~Guest
+~None
+}
+
+::CISA_D5_Q56 [Medium]::
+Password policy:
+{
+=Aturan password # Complexity
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q57 [Hard]::
+Brute force attack:
+{
+=Menebak password # Trial error
+~Phishing
+~Malware
+~Firewall
+}
+
+::CISA_D5_Q58 [Easy]::
+Account lockout:
+{
+=Blokir login # Security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q59 [Medium]::
+Session management:
+{
+=Kontrol sesi user # Security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q60 [Medium]::
+Timeout:
+{
+=Auto logout # Security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q61 [Hard]::
+Single sign-on:
+{
+=Login sekali # Efficiency
+~Multiple login
+~Manual login
+~None
+}
+
+::CISA_D5_Q62 [Easy]::
+Identity management:
+{
+=Kelola identitas # IAM
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q63 [Medium]::
+Access review:
+{
+=Review akses # Control
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q64 [Medium]::
+Security audit:
+{
+=Evaluasi keamanan # Assurance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q65 [Hard]::
+Penetration testing:
+{
+=Simulasi serangan # Ethical hacking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q66 [Easy]::
+Vulnerability scanning:
+{
+=Scan kelemahan # Detection
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q67 [Medium]::
+Patch testing:
+{
+=Uji patch # Stability
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q68 [Medium]::
+Secure coding:
+{
+=Code aman # Prevent bug
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q69 [Hard]::
+Input validation:
+{
+=Validasi input # Prevent attack
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q70 [Easy]::
+Output encoding:
+{
+=Encode output # Prevent XSS
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q71 [Medium]::
+SQL injection:
+{
+=Serangan database # Input exploit
+~Safe query
+~Normal
+~Secure
+}
+
+::CISA_D5_Q72 [Medium]::
+XSS attack:
+{
+=Serangan script # Web exploit
+~Safe
+~Normal
+~Secure
+}
+
+::CISA_D5_Q73 [Hard]::
+CSRF:
+{
+=Cross-site request forgery # Unauthorized action
+~Safe
+~Normal
+~Secure
+}
+
+::CISA_D5_Q74 [Easy]::
+Security awareness training:
+{
+=Edukasi keamanan # Human defense
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q75 [Medium]::
+Insider threat:
+{
+=Ancaman internal # User risk
+~External
+~None
+~Safe
+}
+
+::CISA_D5_Q76 [Medium]::
+External threat:
+{
+=Ancaman luar # Hacker
+~Internal
+~None
+~Safe
+}
+
+::CISA_D5_Q77 [Hard]::
+Security governance:
+{
+=Pengelolaan keamanan # Framework
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q78 [Easy]::
+Security control:
+{
+=Kontrol keamanan # Protection
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q79 [Medium]::
+Preventive control:
+{
+=Mencegah serangan # Before event
+~Detect
+~Correct
+~None
+}
+
+::CISA_D5_Q80 [Medium]::
+Detective control:
+{
+=Mendeteksi serangan # After event
+~Prevent
+~Correct
+~None
+}
+
+::CISA_D5_Q81 [Hard]::
+Corrective control:
+{
+=Memperbaiki dampak # After incident
+~Prevent
+~Detect
+~None
+}
+
+::CISA_D5_Q82 [Easy]::
+Security baseline:
+{
+=Standar minimum # Benchmark
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q83 [Medium]::
+Security metrics:
+{
+=Ukuran keamanan # KPI
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q84 [Medium]::
+Security monitoring:
+{
+=Pengawasan keamanan # Continuous
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q85 [Hard]::
+Threat intelligence:
+{
+=Informasi ancaman # Proactive defense
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q86 [Easy]::
+Data privacy:
+{
+=Perlindungan data pribadi # Compliance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q87 [Medium]::
+GDPR:
+{
+=Regulasi privasi # EU law
+~US law
+~Local
+~None
+}
+
+::CISA_D5_Q88 [Medium]::
+Data retention:
+{
+=Penyimpanan data # Policy
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q89 [Hard]::
+Data disposal:
+{
+=Penghapusan aman # Secure delete
+~Delete biasa
+~Add
+~Reduce
+}
+
+::CISA_D5_Q90 [Easy]::
+Security awareness:
+{
+=Kesadaran user # Human factor
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q91 [Medium]::
+Phishing simulation:
+{
+=Latihan serangan # Training
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q92 [Medium]::
+Security incident reporting:
+{
+=Pelaporan insiden # Response
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q93 [Hard]::
+Forensic analysis:
+{
+=Analisis bukti digital # Investigation
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q94 [Easy]::
+Chain of custody:
+{
+=Jejak bukti # Integrity evidence
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q95 [Medium]::
+Security audit trail:
+{
+=Jejak keamanan # Accountability
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q96 [Medium]::
+Compliance audit:
+{
+=Audit kepatuhan # Regulation
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q97 [Hard]::
+Security maturity:
+{
+=Tingkat kematangan keamanan # Capability
+~User
+~Data
+~Server
+}
+
+::CISA_D5_Q98 [Easy]::
+Security framework:
+{
+=Kerangka kerja # ISO, NIST
+~Excel
+~Word
+~Paint
+}
+
+::CISA_D5_Q99 [Medium]::
+Security governance objective:
+{
+=Melindungi aset # Business value
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D5_Q100 [Hard]::
+Tujuan akhir keamanan informasi adalah:
+{
+=Melindungi aset dan memastikan kepercayaan # CIA + trust
+~Menghapus sistem
+~Mengurangi sistem
+~Menambah risiko
+}
