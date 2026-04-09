@@ -447,3 +447,454 @@ Audit finding adalah:
 ~Program
 ~Server
 }
+
+::CISA_D1_Q51 [Easy]::
+Tujuan utama risk-based audit adalah:
+{
+=Memprioritaskan area berisiko tinggi # Fokus pada risiko terbesar
+~Mengaudit semua area
+~Mengurangi biaya
+~Menghapus kontrol
+}
+
+::CISA_D1_Q52 [Medium]::
+Audit checklist digunakan untuk:
+{
+=Memastikan semua langkah audit dilakukan # Panduan audit
+~Menghapus data
+~Mengganti auditor
+~Mengurangi kontrol
+}
+
+::CISA_D1_Q53 [Easy]::
+Control deficiency adalah:
+{
+=Kelemahan dalam kontrol # Control weakness
+~Kontrol kuat
+~Audit selesai
+~Data lengkap
+}
+
+::CISA_D1_Q54 [Medium]::
+Walkthrough dalam audit berarti:
+{
+=Menelusuri proses secara langsung # Memahami alur sistem
+~Menghapus data
+~Menambah user
+~Mengurangi kontrol
+}
+
+::CISA_D1_Q55 [Hard]::
+Substantive testing digunakan untuk:
+{
+=Memverifikasi keakuratan data # Validasi output
+~Mencegah kesalahan
+~Menghapus audit
+~Mengurangi kontrol
+}
+
+::CISA_D1_Q56 [Easy]::
+Test of control bertujuan:
+{
+=Mengevaluasi efektivitas kontrol # Apakah kontrol berjalan
+~Menghapus kontrol
+~Menambah kontrol
+~Mengganti kontrol
+}
+
+::CISA_D1_Q57 [Medium]::
+Audit sampling yang baik harus:
+{
+=Representatif # Mewakili populasi
+~Random saja
+~Sedikit
+~Banyak saja
+}
+
+::CISA_D1_Q58 [Medium]::
+Audit documentation harus:
+{
+=Lengkap dan jelas # Mendukung kesimpulan
+~Singkat saja
+~Murah
+~Cepat
+}
+
+::CISA_D1_Q59 [Hard]::
+CAATs digunakan untuk:
+{
+=Automasi audit # Computer Assisted Audit Tools
+~Menghapus audit
+~Mengurangi kontrol
+~Menghapus data
+}
+
+::CISA_D1_Q60 [Easy]::
+Interview adalah teknik:
+{
+=Pengumpulan bukti audit # Evidence gathering
+~Penghapusan data
+~Pengkodean
+~Pengujian sistem
+}
+
+::CISA_D1_Q61 [Easy]::
+Observation berarti:
+{
+=Mengamati proses secara langsung # Direct evidence
+~Membaca laporan
+~Menghapus data
+~Menginput data
+}
+
+::CISA_D1_Q62 [Medium]::
+Inquiry dalam audit adalah:
+{
+=Bertanya kepada pihak terkait # Mendapatkan informasi
+~Menghapus data
+~Menambah user
+~Mengurangi kontrol
+}
+
+::CISA_D1_Q63 [Medium]::
+Reperformance berarti:
+{
+=Mengulang proses untuk verifikasi # Validasi hasil
+~Menghapus proses
+~Menambah proses
+~Mengurangi proses
+}
+
+::CISA_D1_Q64 [Hard]::
+Analytical procedure digunakan untuk:
+{
+=Menganalisis pola data # Identifikasi anomali
+~Menghapus data
+~Mengurangi data
+~Menambah data
+}
+
+::CISA_D1_Q65 [Easy]::
+Audit evidence terbaik adalah:
+{
+=Bukti yang independen # Objektif
+~Bukti internal
+~Bukti sedikit
+~Bukti acak
+}
+
+::CISA_D1_Q66 [Medium]::
+Risk appetite adalah:
+{
+=Tingkat risiko yang dapat diterima # Toleransi risiko
+~Risiko maksimum
+~Risiko minimum
+~Risiko nol
+}
+
+::CISA_D1_Q67 [Medium]::
+Risk tolerance adalah:
+{
+=Batas variasi risiko # Acceptable deviation
+~Risiko nol
+~Risiko maksimum
+~Risiko tetap
+}
+
+::CISA_D1_Q68 [Hard]::
+Control self-assessment adalah:
+{
+=Penilaian kontrol oleh manajemen # CSA
+~Audit eksternal
+~Audit internal
+~Audit manual
+}
+
+::CISA_D1_Q69 [Easy]::
+Audit schedule adalah:
+{
+=Jadwal audit # Waktu pelaksanaan
+~Data audit
+~User audit
+~Server audit
+}
+
+::CISA_D1_Q70 [Medium]::
+Audit objective adalah:
+{
+=Tujuan audit # Target audit
+~Data audit
+~User audit
+~Server audit
+}
+
+::CISA_D1_Q71 [Medium]::
+Audit scope menentukan:
+{
+=Area yang diaudit # Batas audit
+~User
+~Server
+~Data
+}
+
+::CISA_D1_Q72 [Hard]::
+Risk register berisi:
+{
+=Daftar risiko organisasi # Risk inventory
+~Data user
+~Kode program
+~Server log
+}
+
+::CISA_D1_Q73 [Easy]::
+Key control adalah:
+{
+=Kontrol utama # Critical control
+~Kontrol kecil
+~Kontrol tambahan
+~Kontrol opsional
+}
+
+::CISA_D1_Q74 [Medium]::
+Preventive control terbaik adalah:
+{
+=Access control # Mencegah akses tidak sah
+~Log
+~Alarm
+~Report
+}
+
+::CISA_D1_Q75 [Medium]::
+Detective control contoh:
+{
+=Log monitoring # Mendeteksi aktivitas
+~Firewall
+~Password
+~Encryption
+}
+
+::CISA_D1_Q76 [Hard]::
+Corrective control contoh:
+{
+=Backup restore # Memperbaiki kesalahan
+~Firewall
+~Password
+~Encryption
+}
+
+::CISA_D1_Q77 [Easy]::
+Audit criteria adalah:
+{
+=Standar evaluasi # Benchmark audit
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q78 [Medium]::
+Audit finding harus:
+{
+=Berdasarkan bukti # Evidence-based
+~Opini saja
+~Perkiraan
+~Asumsi
+}
+
+::CISA_D1_Q79 [Medium]::
+Audit conclusion adalah:
+{
+=Kesimpulan audit # Final judgement
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q80 [Hard]::
+Management response adalah:
+{
+=Tanggapan manajemen terhadap audit # Action plan
+~Data audit
+~User audit
+~Server audit
+}
+
+::CISA_D1_Q81 [Easy]::
+Follow-up audit memastikan:
+{
+=Perbaikan dilakukan # Implementation check
+~Audit selesai
+~Audit dihapus
+~Audit diganti
+}
+
+::CISA_D1_Q82 [Medium]::
+Audit report harus:
+{
+=Jelas dan objektif # Clear communication
+~Panjang saja
+~Singkat saja
+~Rumit
+}
+
+::CISA_D1_Q83 [Medium]::
+Audit independence berarti:
+{
+=Tidak bias # Objektif
+~Cepat
+~Murah
+~Singkat
+}
+
+::CISA_D1_Q84 [Hard]::
+Conflict of interest harus:
+{
+=Dihindari # Menjaga independensi
+~Diterima
+~Diabaikan
+~Diprioritaskan
+}
+
+::CISA_D1_Q85 [Easy]::
+Audit standard digunakan untuk:
+{
+=Panduan audit # Framework
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q86 [Medium]::
+Audit guideline adalah:
+{
+=Panduan tambahan # Support standard
+~Standar utama
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q87 [Medium]::
+Audit procedure adalah:
+{
+=Langkah audit # Step-by-step
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q88 [Hard]::
+Audit universe membantu:
+{
+=Perencanaan audit # Planning basis
+~Penghapusan audit
+~Pengurangan audit
+~Penambahan audit
+}
+
+::CISA_D1_Q89 [Easy]::
+Audit frequency adalah:
+{
+=Frekuensi audit # Seberapa sering
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q90 [Medium]::
+High risk area harus:
+{
+=Diaudit lebih sering # Priority
+~Diabaikan
+~Dihapus
+~Dikurangi
+}
+
+::CISA_D1_Q91 [Medium]::
+Audit resource adalah:
+{
+=Tim dan alat audit # Resources
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q92 [Hard]::
+Audit budget digunakan untuk:
+{
+=Perencanaan biaya audit # Cost planning
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q93 [Easy]::
+Audit team harus:
+{
+=Kompeten # Skill penting
+~Banyak
+~Murah
+~Cepat
+}
+
+::CISA_D1_Q94 [Medium]::
+Audit skill penting adalah:
+{
+=Analytical skill # Analisis
+~Coding
+~Design
+~Marketing
+}
+
+::CISA_D1_Q95 [Medium]::
+Audit tool membantu:
+{
+=Efisiensi audit # Automation
+~Menghapus audit
+~Mengurangi audit
+~Menambah audit
+}
+
+::CISA_D1_Q96 [Hard]::
+Audit maturity menunjukkan:
+{
+=Tingkat kematangan proses audit # Capability
+~Jumlah audit
+~Biaya audit
+~User audit
+}
+
+::CISA_D1_Q97 [Easy]::
+Audit documentation penting untuk:
+{
+=Bukti audit # Evidence
+~Data
+~User
+~Server
+}
+
+::CISA_D1_Q98 [Medium]::
+Audit review dilakukan untuk:
+{
+=Quality assurance # QA audit
+~Menghapus audit
+~Mengurangi audit
+~Menambah audit
+}
+
+::CISA_D1_Q99 [Medium]::
+Quality assurance audit memastikan:
+{
+=Audit berkualitas # Quality check
+~Audit cepat
+~Audit murah
+~Audit singkat
+}
+
+::CISA_D1_Q100 [Hard]::
+Tujuan akhir audit adalah:
+{
+=Memberikan assurance dan value # Nilai tambah organisasi
+~Menghapus sistem
+~Mengurangi user
+~Menambah risiko
+}
