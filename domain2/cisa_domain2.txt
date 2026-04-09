@@ -1,0 +1,449 @@
+::CISA_D2_Q1 [Easy]::
+Tujuan utama IT governance adalah:
+{
+=Menyelaraskan IT dengan bisnis # Alignment bisnis-IT
+~Menghapus IT
+~Mengurangi biaya saja
+~Menghindari audit
+}
+
+::CISA_D2_Q2 [Medium]::
+Framework IT governance yang populer adalah:
+{
+=COBIT # Framework governance IT
+~HTML
+~Python
+~Linux
+}
+
+::CISA_D2_Q3 [Easy]::
+IT strategy harus:
+{
+=Selaras dengan strategi bisnis # Alignment penting
+~Berbeda
+~Tidak terkait
+~Fokus teknis saja
+}
+
+::CISA_D2_Q4 [Medium]::
+IT steering committee berfungsi untuk:
+{
+=Mengawasi keputusan IT # Governance body
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D2_Q5 [Hard]::
+Enterprise architecture digunakan untuk:
+{
+=Menyelaraskan IT dan bisnis # Struktur organisasi IT
+~Menghapus sistem
+~Menambah user
+~Mengurangi kontrol
+}
+
+::CISA_D2_Q6 [Easy]::
+Policy IT adalah:
+{
+=Aturan formal organisasi # Governance rule
+~Program
+~Data
+~Server
+}
+
+::CISA_D2_Q7 [Medium]::
+Procedure adalah:
+{
+=Langkah detail dari policy # Implementasi
+~Tujuan
+~Visi
+~Misi
+}
+
+::CISA_D2_Q8 [Medium]::
+Standard adalah:
+{
+=Kriteria wajib # Harus diikuti
+~Opsional
+~Saran
+~Ide
+}
+
+::CISA_D2_Q9 [Hard]::
+Risk management bertujuan:
+{
+=Mengelola risiko organisasi # Identify, assess, mitigate
+~Menghapus risiko
+~Menghindari IT
+~Mengurangi user
+}
+
+::CISA_D2_Q10 [Easy]::
+KPI digunakan untuk:
+{
+=Mengukur kinerja # Performance measurement
+~Menghapus data
+~Menambah user
+~Mengurangi kontrol
+}
+
+::CISA_D2_Q11 [Medium]::
+KGI digunakan untuk:
+{
+=Mengukur hasil akhir # Outcome indicator
+~Proses
+~Input
+~Data
+}
+
+::CISA_D2_Q12 [Medium]::
+IT governance memastikan:
+{
+=Value delivery # Nilai dari IT
+~Penghapusan IT
+~Pengurangan user
+~Penghapusan audit
+}
+
+::CISA_D2_Q13 [Hard]::
+COBIT focus pada:
+{
+=Governance dan control # Framework audit
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D2_Q14 [Easy]::
+Compliance berarti:
+{
+=Kepatuhan terhadap regulasi # Legal requirement
+~Keamanan
+~Efisiensi
+~Performa
+}
+
+::CISA_D2_Q15 [Medium]::
+Regulasi penting untuk:
+{
+=Kepatuhan hukum # Legal compliance
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D2_Q16 [Medium]::
+IT risk adalah:
+{
+=Risiko terkait IT # IT exposure
+~Risiko bisnis saja
+~Risiko user
+~Risiko data
+}
+
+::CISA_D2_Q17 [Hard]::
+Risk appetite ditentukan oleh:
+{
+=Manajemen senior # Strategic decision
+~User
+~Programmer
+~Auditor
+}
+
+::CISA_D2_Q18 [Easy]::
+IT resource terdiri dari:
+{
+=People, process, technology # Komponen utama
+~User saja
+~Server saja
+~Data saja
+}
+
+::CISA_D2_Q19 [Medium]::
+Vendor management penting untuk:
+{
+=Mengelola pihak ketiga # Third-party risk
+~Menghapus vendor
+~Mengurangi user
+~Menghapus sistem
+}
+
+::CISA_D2_Q20 [Medium]::
+SLA adalah:
+{
+=Perjanjian layanan # Service agreement
+~Program
+~Data
+~Server
+}
+
+::CISA_D2_Q21 [Hard]::
+IT portfolio management bertujuan:
+{
+=Mengelola investasi IT # Prioritization
+~Menghapus IT
+~Mengurangi IT
+~Menambah user
+}
+
+::CISA_D2_Q22 [Easy]::
+IT performance diukur dengan:
+{
+=KPI # Performance indicator
+~User
+~Server
+~Data
+}
+
+::CISA_D2_Q23 [Medium]::
+Balanced scorecard digunakan untuk:
+{
+=Mengukur performa organisasi # Multi perspective
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D2_Q24 [Medium]::
+IT governance maturity model digunakan untuk:
+{
+=Menilai kematangan governance # Capability level
+~Menghapus IT
+~Mengurangi IT
+~Menambah user
+}
+
+::CISA_D2_Q25 [Hard]::
+Segregation of duties penting untuk:
+{
+=Mencegah fraud # Internal control
+~Menghapus kontrol
+~Menambah user
+~Mengurangi audit
+}
+
+::CISA_D2_Q26 [Easy]::
+IT policy harus:
+{
+=Didokumentasikan # Formal
+~Tidak perlu
+~Lisan saja
+~Opsional
+}
+
+::CISA_D2_Q27 [Medium]::
+Risk assessment adalah:
+{
+=Identifikasi dan analisis risiko # Core process
+~Menghapus risiko
+~Menghindari risiko
+~Mengurangi risiko
+}
+
+::CISA_D2_Q28 [Medium]::
+IT governance mencakup:
+{
+=Alignment dan value # Core concept
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D2_Q29 [Hard]::
+Enterprise risk management mencakup:
+{
+=Seluruh risiko organisasi # Holistic
+~Risiko IT saja
+~Risiko user
+~Risiko data
+}
+
+::CISA_D2_Q30 [Easy]::
+Data governance adalah:
+{
+=Pengelolaan data # Data management
+~Penghapusan data
+~Pengurangan data
+~Penambahan data
+}
+
+::CISA_D2_Q31 [Medium]::
+Data owner bertanggung jawab:
+{
+=Kualitas data # Ownership
+~Server
+~Network
+~Program
+}
+
+::CISA_D2_Q32 [Medium]::
+Data custodian bertugas:
+{
+=Menjaga data # Operational
+~Menghapus data
+~Mengurangi data
+~Menambah data
+}
+
+::CISA_D2_Q33 [Hard]::
+Information security governance bertujuan:
+{
+=Melindungi informasi # CIA
+~Menghapus data
+~Mengurangi data
+~Menambah data
+}
+
+::CISA_D2_Q34 [Easy]::
+CIA triad terdiri dari:
+{
+=Confidentiality, Integrity, Availability # Konsep dasar
+~Control, IT, Audit
+~Code, Input, Access
+~Create, Implement, Analyze
+}
+
+::CISA_D2_Q35 [Medium]::
+Confidentiality berarti:
+{
+=Kerahasiaan data # Tidak diakses sembarangan
+~Ketersediaan
+~Integritas
+~Kecepatan
+}
+
+::CISA_D2_Q36 [Medium]::
+Integrity berarti:
+{
+=Keakuratan data # Tidak berubah
+~Keamanan
+~Kecepatan
+~Ketersediaan
+}
+
+::CISA_D2_Q37 [Hard]::
+Availability berarti:
+{
+=Data tersedia saat dibutuhkan # Uptime
+~Keamanan
+~Kecepatan
+~Integritas
+}
+
+::CISA_D2_Q38 [Easy]::
+IT governance responsibility ada pada:
+{
+=Board dan management # Top level
+~User
+~Programmer
+~Admin
+}
+
+::CISA_D2_Q39 [Medium]::
+Audit IT governance bertujuan:
+{
+=Menilai efektivitas governance # Evaluation
+~Menghapus governance
+~Mengurangi governance
+~Menambah governance
+}
+
+::CISA_D2_Q40 [Medium]::
+IT compliance penting untuk:
+{
+=Hindari sanksi hukum # Legal
+~Menghapus IT
+~Mengurangi IT
+~Menambah IT
+}
+
+::CISA_D2_Q41 [Hard]::
+IT strategy harus direview:
+{
+=Secara berkala # Continuous improvement
+~Sekali saja
+~Tidak perlu
+~Jarang
+}
+
+::CISA_D2_Q42 [Easy]::
+Policy enforcement berarti:
+{
+=Penerapan kebijakan # Implementation
+~Penghapusan
+~Pengurangan
+~Penambahan
+}
+
+::CISA_D2_Q43 [Medium]::
+Governance structure meliputi:
+{
+=Organisasi dan peran # Structure
+~Data
+~Server
+~Program
+}
+
+::CISA_D2_Q44 [Medium]::
+IT investment harus:
+{
+=Memberikan value # ROI
+~Mengurangi biaya saja
+~Menambah biaya
+~Menghapus biaya
+}
+
+::CISA_D2_Q45 [Hard]::
+Risk mitigation berarti:
+{
+=Mengurangi risiko # Treatment
+~Menghapus risiko
+~Menghindari risiko
+~Menambah risiko
+}
+
+::CISA_D2_Q46 [Easy]::
+Vendor risk adalah:
+{
+=Risiko pihak ketiga # Third party
+~Risiko internal
+~Risiko user
+~Risiko data
+}
+
+::CISA_D2_Q47 [Medium]::
+Contract management penting untuk:
+{
+=Mengelola vendor # Agreement
+~Menghapus vendor
+~Mengurangi vendor
+~Menambah vendor
+}
+
+::CISA_D2_Q48 [Medium]::
+IT governance metrics digunakan untuk:
+{
+=Monitoring kinerja # Performance
+~Menghapus data
+~Menambah data
+~Mengurangi data
+}
+
+::CISA_D2_Q49 [Hard]::
+IT governance memastikan:
+{
+=Risk optimization # Balance risk & value
+~Menghapus risiko
+~Mengurangi risiko
+~Menambah risiko
+}
+
+::CISA_D2_Q50 [Easy]::
+IT management fokus pada:
+{
+=Operasional IT # Execution
+~Strategi
+~Audit
+~Compliance
+}
